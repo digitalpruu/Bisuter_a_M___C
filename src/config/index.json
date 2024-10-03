@@ -64,12 +64,8 @@
       {
         "name": "Instagram",
         "description": "@bisuteriam_y_c",
-        "icon": "/assets/images/insta.png"
-      },
-      {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/insta.png",
+        "url":""
       }
     ]
   },
